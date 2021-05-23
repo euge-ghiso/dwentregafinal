@@ -114,7 +114,7 @@ input {
   .btn-dark {
     width: 97px;
     padding: 0;
-    margin: 0; } }
+    margin: 1px; } }
 
 @media only screen and (min-width: 1024px) {
   .quienesSomos {
